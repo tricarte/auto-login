@@ -2,7 +2,7 @@
     "name"       : "szepeviktor/auto-login",
     "description": "Automatically log in to WordPress",
     "homepage"   : "https://github.com/szepeviktor/auto-login",
-    "type"       : "wordpress-plugin",
+    "type"       : "wordpress-muplugin",
     "license"    : "MIT",
     "authors"    : [
         {
