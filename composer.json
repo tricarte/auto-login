@@ -1,12 +1,12 @@
 {
-    "name"       : "szepeviktor/auto-login",
+    "name"       : "tricarte/auto-login",
     "description": "Automatically log in to WordPress",
-    "homepage"   : "https://github.com/szepeviktor/auto-login",
+    "homepage"   : "https://github.com/tricarte/auto-login",
     "type"       : "wordpress-muplugin",
     "license"    : "MIT",
     "authors"    : [
         {
-            "name"    : "Viktor Szépe"
+            "name"    : "tricarte"
         }
     ]
 }
